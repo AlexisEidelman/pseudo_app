@@ -26,7 +26,7 @@ comme une tache de [reconnaissance d'entités nommées](https://fr.wikipedia.org
 (REN). La REN est souvent résolue à l'aide des méthodes d'apprentissage supervisé séquentiel. Cette démo utilise une approche de ce type : 
 nous avons entraîné un modèle de REN en utilisant des décisions de justice annotées indirectement (les annotations dans ces documents ne provienent pas d'une campagne d'annotation).
 Le modèle est
-ensuite normalement capable de repérer des entités (noms, prènoms, adresses) dans des nouveaux documents. 
+ensuite normalement capable de repérer des entités (noms, prénoms, adresses) dans des nouveaux documents. 
 
  
 """)
